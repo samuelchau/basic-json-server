@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "name": "Zuko",
+      "comment": "hi, zuko here",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png",
+      "id": 1
+    },
+    {
+      "name": "Katara",
+      "comment": "stfu nobody likes u",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/7/7a/Katara_smiles_at_coronation.png",
+      "id": 2
+    },
+    {
+      "name": "Sokka",
+      "comment": "just drink some cactus juice why dont yuh??",
+      "avatarURL": "https://i.kym-cdn.com/entries/icons/original/000/009/986/Cactus_juice_XDDD_by_muh_Q.png",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "username": "Zuko",
+      "password": "zukohere",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png",
+      "id": 1
+    },
+    {
+      "username": "Katara",
+      "password": "katarahere",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/7/7a/Katara_smiles_at_coronation.png",
+      "id": 2
+    },
+    {
+      "username": "Sokka",
+      "password": "sokkahere",
+      "avatarURL": "https://i.kym-cdn.com/entries/icons/original/000/009/986/Cactus_juice_XDDD_by_muh_Q.png",
+      "id": 3
+    },
+    {
+      "username": "zuke",
+      "password": "zukehere",
+      "avatarURL": "",
+      "id": 4
+    }
+  ]
+}
